@@ -1,0 +1,57 @@
+.container{
+
+	width:450px;
+	height:540px;
+	background-color: #D2D9DA;
+	border: 2px solid black;
+	margin:auto;
+	margin-top:50px;
+	border-radius: 10px;
+
+}
+#screen{
+	width: 400px;
+	height: 80px;
+	font-size: 4rem;
+	text-align: right;
+	margin-left: 25px;
+	margin-top: 50px;
+	border-radius:5px;
+	background-color:lawngreen;
+}
+.container p{
+	text-align: center;
+	font-size:15px;
+	font-weight: bold;
+	color: black;
+	text-shadow:1px 1px white;
+
+}
+.button{
+	height: 60px;
+	width: 65px;
+	padding: 20px;
+	margin:5px;
+	margin-left: 15px;
+	font-size: 15px;
+	text-align: center;
+	border-radius: 20px;
+}
+.operator,.operatorp,.number{
+	background-color: black;
+	color: white;
+}
+.operatorp{
+	height: 100px;
+}
+.onscreen{
+	background-color: red;
+	color:white;
+	font-weight: bold;
+	     
+}
+.clrscreen{
+	background-color: #196F3D ;
+	color:white;
+	font-weight: bold;
+}
